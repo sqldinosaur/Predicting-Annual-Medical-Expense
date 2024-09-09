@@ -1,2 +1,2 @@
-# Presicting-Annual-Medical-Expense
+# Predicting-Annual-Medical-Expense
 A ML project on predicting annual medical expense for future customers
